@@ -18,3 +18,8 @@ details{
 h2{
     color: white;
 }
+a:hover{
+    color:red;
+    transition: 2s;
+
+}
